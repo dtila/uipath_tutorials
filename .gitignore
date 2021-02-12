@@ -348,3 +348,8 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+.local
+.settings
+.tmh
+/robots/RandomWinners/UiPath Advanced Developer Review.csv
+/robots/RandomWinners/winners.xlsx
